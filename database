@@ -6,3 +6,7 @@ Steps to create user in sql developer:
 
 create table product
 (id number(5),productName varchar2(30), productDescription varchar2(30),productPrice number(5));
+
+Steps to include oracle jar:
+1.download ojdbc7 or any latest version jar.
+2.Add this jar in the build path of the project.
