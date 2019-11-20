@@ -1,2 +1,8 @@
+Steps to create user in sql developer:
+1.Create user 'username' identified by 'password';
+2.grant all privileges to 'username';
+3.commit;
+
+
 create table product
 (id number(5),productName varchar2(30), productDescription varchar2(30),productPrice number(5));
