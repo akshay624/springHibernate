@@ -1,0 +1,2 @@
+create table product
+(id number(5),productName varchar2(30), productDescription varchar2(30),productPrice number(5));
