@@ -1,0 +1,11 @@
+package structure:
+com.springboot
+SpringApplication.java
+  --com.springboot.controller
+     -RestController.java
+  --com.springboot.service
+     -SpringService.java
+  --com.sringboot.pojo
+     -Something.java
+     
+Note:this hierarchy should be followed
